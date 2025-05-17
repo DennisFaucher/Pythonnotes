@@ -11,5 +11,7 @@ I need to add a requirements.txt. The hardest part is getting the gi python libr
 - Parentheses and Brackets seem to be formatted as some sort of heading. Only if they have a horizontal line (---) following them. Interesting.
 - Cannot include emojis, colons, astricks in note names
 - If you want to scale the images and the scale to work in WeasyPrint PDF, you need to use this scale format:
-  - ![Lucie512 128px Width](../../images/Lucie512.jpg){: style="width: 128px !important;" }
+```
+![AltText 128px Width](../../images/image.jpg){: style="width: 128px !important;" }
+```
 - Tabbed bullets work, but hitting Enter after a tabbed bullet only creates a normal bullet ATM
