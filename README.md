@@ -1,8 +1,11 @@
 # PythonNotes
 
 Sort of an Obsidian clone written by GoogleGemini after many iterations of coaching
+
 Runs on both Linux and MacOS (after installing GTK). 
+
 I need to add a requirements.txt. The hardest part is getting the gi python library installed
+
 CTRL-S is a Save shortcut 
 
 ##### Weird Quirks currently
