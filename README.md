@@ -15,3 +15,7 @@ I need to add a requirements.txt. The hardest part is getting the gi python libr
 ![AltText 128px Width](../../images/image.jpg){: style="width: 128px !important;" }
 ```
 - Tabbed bullets work, but hitting Enter after a tabbed bullet only creates a normal bullet ATM
+
+![PythonNotes](https://github.com/user-attachments/assets/eab29d90-94d7-43bb-9bd4-befba16b2793)
+
+##### Enjoy!
